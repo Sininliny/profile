@@ -15,14 +15,14 @@ name                     : &name "Sinin Zhang"
 description              : &description "Sinin Zhang's academic portfolio - Embodied AI Developer"
 url                      : "https://sininliny.github.io" 
 baseurl                  : "" 
-repository               : "sininliny/sininliny.github.io"
+repository               : "sininliny/profile"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # /images/profile.png
+  avatar           : "/images/profile.png" # /images/profile.png
   name             : "Sinin Zhang"
   pronouns         : # "she/her"
   bio              : "An Embodied AI Developer"
